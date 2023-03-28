@@ -10,7 +10,5 @@ Data Portofolio
 * Pivots Sheets created to analyze data
 * Developed Charts and eventually Dashboard to use for analyzing bike sales demand
 * [Excel Workbook](https://github.com/Hash-S-Slasher/Bike-Sales-Analysis/blob/main/Excel%20Project%20Dataset.xlsx)
-
-![test](https://github.com/Hash-S-Slasher/HardianH_Portofolio/blob/main/Images/Bike%20Sales%20Dashboard.JPG)
-<img src="Images/Bike Sales Dashboard.JPG" alt="My"> 
+<img src="Images/Bike Sales Dashboard.JPG" alt="Bike Sales"> 
 
