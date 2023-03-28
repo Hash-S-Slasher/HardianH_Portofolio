@@ -11,4 +11,4 @@ Data Portofolio
 * Developed Charts and eventually Dashboard to use for analyzing bike sales demand
 * [Excel Workbook](https://github.com/Hash-S-Slasher/Bike-Sales-Analysis/blob/main/Excel%20Project%20Dataset.xlsx)
 
-![Bike Sales Dashboard](https://github.com/Hash-S-Slasher/Bike-Sales-Analysis/blob/main/Bike%20Sales%20Dashboard.JPG)
+![Bike Sales Dashboard](https://github.com/Hash-S-Slasher/Bike-Sales-Analysis/blob/main/Bike%20Sales%20Dashboard.PNG)
