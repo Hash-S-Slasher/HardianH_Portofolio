@@ -4,7 +4,7 @@ Data Portofolio
 
 
 # Project 2 : [Bike-Sales-Analysis](https://github.com/Hash-S-Slasher/Bike-Sales-Analysis)
-* Bike Sales Analysis using <mark>Excel</mark>
+* Bike Sales Analysis using **Excel**
 * Accomplished Data Cleaning to avoid null error
 * Created Bins to Group age for clearer insights and analysis
 * Pivots Sheets created to analyze data
