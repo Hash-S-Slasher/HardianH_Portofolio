@@ -7,7 +7,7 @@ This is My Data Portofolio using Tableau, Excel, Python, and SQL that also inclu
 * Transformed and Cleaned data to help maintain Dashboard and Data Source Quality.
 * [Tableau Workbook](https://github.com/Hash-S-Slasher/TravellingBookingDashboard/blob/main/Traveling%20Booking%20Dashboard.twbx)
 
-<img src="Images/Travelling Dashboard.PNG" alt="Travel"> 
+<img src="Images/Travelling Dashboard.png" alt="Travel"> 
 
 ## Project 2: [Bike-Sales-Analysis](https://github.com/Hash-S-Slasher/Bike-Sales-Analysis)
 * Bike Sales Analysis using **Excel**
