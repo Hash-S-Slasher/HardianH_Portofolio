@@ -1,4 +1,4 @@
-# HardianHidayat_Portofolio
+# HardianH_Portofolio
 This is My Data Portofolio using Tableau, Excel, Python, and SQL that also includes few Dataset to play around. 
 
 ## Project 1: [Travelling Apps Booking Funnels](https://public.tableau.com/app/profile/hardian.h/viz/TravelingBookingDashboard/Dashboard1)
