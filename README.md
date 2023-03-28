@@ -21,7 +21,7 @@ Respectively using  Tableau, Excel, Python, and SQL that also includes few Datas
 
 <img src="Images/Bike Sales Dashboard.JPG" alt="Bike Sales"> 
 
-## Project 3: [Fake News Detection]()
+## Project 3: [Fake News Detection](https://github.com/Hash-S-Slasher/Fake-News-Classification)
 * Utilized ***Python*** to perform *Fake News Detection* using ***Naive Bayes Classification*** on 500+ tweet from around Indonesia.
 * Performed data cleaning and text analysis to successfully identified the most occurred word on the hoax dataset.
 * Applied machine learning to produce a final model with an accuracy of 88% with 92% on true news and 81% on Fake News
@@ -33,3 +33,18 @@ Respectively using  Tableau, Excel, Python, and SQL that also includes few Datas
 * Word Cloud True
 
 <img src="Images/True Data.png" alt="Data True"> 
+
+
+## Project 4: [Optimizing Online Sports Retail Revenue](https://github.com/Hash-S-Slasher/Optimizing-Online-Sports-Retail-Revenue)
+* Utilized ***SQL*** to extract data from 5 different related tables from Online Sport Retail databases using JOIN and CTE
+* Transformed and filtered data by using aggregating and filtering function to improve reporting process
+* Performed Advance Data Analysis by using Window Function to create advance Insights
+* [Online Sport Retail Dataset](https://github.com/Hash-S-Slasher/Optimizing-Online-Sports-Retail-Revenue/tree/main/Dataset)
+* Labeling Total Revenue
+
+<img src="Images/LabelingTot.PNG" alt="Data True"> 
+
+* Average Rating with Description Length
+
+<img src="Images/RatingRev.PNG" alt="Data True"> 
+
